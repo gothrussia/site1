@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Maison Douce">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#FFFDF9"/><stop offset=".6" stop-color="#F7F0E8"/><stop offset="1" stop-color="#F4DDE2"/></radialGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="400" cy="420" r="270" fill="#FFFDF9" opacity=".55"/>
+<ellipse cx="400" cy="560" rx="200" ry="26" fill="#EAE0D6"/>
+<path d="M230 545V430h340v115" fill="#FFFDF9" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M230 430c0-20 15-30 30-30h280c15 0 30 10 30 30" fill="#F4DDE2" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M230 470c30 20 55 20 85 0s55-20 85 0 55 20 85 0 55-20 85 0" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M270 400V320h260v80" fill="#FFFDF9" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M270 320c0-15 10-25 25-25h210c15 0 25 10 25 25" fill="#EAC5CE" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="400" cy="262" r="24" fill="#C98A97"/><path d="M400 238c4-18 16-26 30-28" stroke="#57463F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="400" y="680" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="40" fill="#57463F" opacity=".75">Maison Douce</text>
+</svg>
